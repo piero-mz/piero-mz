@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Abdul Khalid </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Piero </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <div align="center">
 **Software Engineering Student · Peru 🇵🇪**
  
@@ -18,8 +18,6 @@
 - 🎓 7th-semester Software Engineering student in an international dual-degree program
 - 🔐 Interested in **cybersecurity**, **AI/ML**, and **systems programming**
 - 🐧 Daily driver: **CachyOS** + Hyprland · Editor: **Neovim** (LazyVim)
-- 🤖 Attended **BuildWithAI** @ GDG Open Lima & worked with HuggingFace Transformers
-- 📡 Applied to **Deep Learning Spring School** — UBA/CONICET Buenos Aires 2026
 - 🌎 Based in Lima, Peru
 </td>
 <td valign="center" width="40%">
