@@ -1,6 +1,5 @@
+<h1 align="center"><b>Hi , I'm Abdul Khalid </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <div align="center">
-# Hey, I'm Piero 👾
- 
 **Software Engineering Student · Peru 🇵🇪**
  
 *Dual-degree program · Interested in cybersecurity, AI & Linux*
@@ -11,6 +10,9 @@
 </p>
 ---
  
+<table>
+<tr>
+<td valign="top" width="60%">
 ### About me
  
 - 🎓 7th-semester Software Engineering student in an international dual-degree program
@@ -19,6 +21,12 @@
 - 🤖 Attended **BuildWithAI** @ GDG Open Lima & worked with HuggingFace Transformers
 - 📡 Applied to **Deep Learning Spring School** — UBA/CONICET Buenos Aires 2026
 - 🌎 Based in Lima, Peru
+</td>
+<td valign="center" width="40%">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWV1ZTJrc3IwYW5pMjE1aG1lN3Z0eGRjNzA4ZzVuajZ1ZDBhaGdpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="220" />
+</td>
+</tr>
+</table>
 ---
  
 ### Tech Stack
